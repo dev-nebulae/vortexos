@@ -1,0 +1,5 @@
+# Ignore binaries and objects
+*.o
+*.elf
+*.bin
+output

@@ -1,0 +1,11 @@
+  Bootloader for VortexOS
+---------------------------
+
+This is a simple bootloader for VortexOS.
+
+  Todos
+---------
+
+- Multiboot support
+- ARM and RISC-V support (x86_64 only right now)
+
