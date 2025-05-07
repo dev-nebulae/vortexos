@@ -7,7 +7,6 @@
   <a href="#features">Features •</a>
   <a href="#installation">Installation •</a>
   <a href="#contributing">Contributing •</a>
-  <a href="#contact">Contact •</a>
   <a href="#license">Licenese •</a>
   <a href="#documentation">Documentation •</a>
   <a href="#footnotes">Footnotes</a>
@@ -36,8 +35,19 @@ Then, flash the `.img` file to an CD or USB stick.
 
 After that, plug it into a computer [that meets the requirements](#requirements).
 
-You will find a guided install. It's straight-forward and easy to use. But if you
-need help, you will find it [on the next section](#guide).
+You will find a guided install. It's straight-forward process.
+
+## [Contributing](#contributing)
+
+Contributions are welcome! See [CONTRIBUTING.md](/CONTRIBUTING.md) for more info.
+
+## [License](#license)
+
+VortexOS is under the terms of the [MPL-2.0 license (or later)](LICENSE).
+
+## [Documentation](#documentation)
+
+There's a lot of documentation on [the wiki](https://dev-nebulae.github.io/vortexos/).
 
 ## [Footnotes](#footnotes)
 
