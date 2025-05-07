@@ -8,10 +8,6 @@ BOOT_BIN = $(BOOT_DIR)/boot.bin
 KERNEL_BIN = $(KERNEL_DIR)/kernel.bin
 OUTPUT_BIN = $(OUTPUT_DIR)/combined.bin
 
-# Install dependencies
-dependencies:
-	# TODO: make
-
 test:
 	printf "Todo."
 
